@@ -1,0 +1,5 @@
+training\crudproject\sample\core\entity\Client.class
+training\crudproject\sample\core\dao\ProductDao.class
+training\crudproject\sample\core\entity\BaseEntity.class
+training\crudproject\sample\core\dao\ClientDao.class
+training\crudproject\sample\core\entity\Product.class
